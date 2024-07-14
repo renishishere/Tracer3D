@@ -13,6 +13,7 @@ I included gestures for being able to rotate and scale the cube that are very in
 There is also a included spin module, for a fun little effect.
 
 This video demonstrates everything above:
+
 https://github.com/user-attachments/assets/8159f9b0-7897-4f8e-a89f-aaa87f95eb72
 
 You may have noticed at the end that as I spin the cube, it is rotating on the z axis. This is due to something known as gimbal lock, there is more information about it here:
